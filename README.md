@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- 1. GitHub usernameを変更 -->
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=username" />
+  <img src="https://komarev.com/ghpvc/?username=takumi7110" />
 </div>
 
 
