@@ -48,8 +48,8 @@ I'm a beginner in programming.
 - 統計検定一級(統計数理、統計応用の両分野で最優秀成績賞)
 
 <p align="center">
-  <img src="./image/IMG_0837.HEIC" alt="Image 1" width="500" />
-  <img src="./image/IMG_5541.HEIC" alt="Image 2" width="500" />
+  <img src="./image/IMG_0837.HEIC" alt="Image 1" width="400" />
+  <img src="./image/IMG_5541.HEIC" alt="Image 2" width="400" />
 </p>
 
 ## Internship
