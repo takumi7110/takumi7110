@@ -1,10 +1,4 @@
 <!-- ![title](./image/IMG_0837.HEIC) -->
-## 🏃‍♀️ Activities
-<div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=takumi7110&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takumi7110&theme=vue-dark&layout=compact" />
-</div>
-
 ## Hi there 👋
 
 <!--
@@ -33,6 +27,13 @@ Here are some ideas to get you started:
 
 - 🧑‍💻 I'm a student at Kyoto university.(Informatics)
 - 🌱 I’m currently learning datascience.
+
+
+## 🏃‍♀️ Activities
+<div align="left"> 
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=takumi7110&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takumi7110&theme=vue-dark&layout=compact" />
+</div>
 
 
 <!-- 3. 好きな技術スタックに変更 -->
