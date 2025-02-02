@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 <br>
 
 ## Internship
+- 東京大学松尾研究室
 - Preferred Networks
 - Recruit
 - SONY
