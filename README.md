@@ -63,7 +63,7 @@ I'm a beginner in programming.
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 
-<img src="./image/IMG_8012.HEIC" alt="title" width="800" height="450" />
+<img src="./image/IMG_8012.HEIC" alt="title" width="1000" height="450" />
 
 <!--
 This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
