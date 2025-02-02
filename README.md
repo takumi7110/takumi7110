@@ -44,6 +44,8 @@ I'm a beginner in programming.
 - Preferred Networks
 - Recruit
 - SONY
+## その他
+- GENIAC:たぬき
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
