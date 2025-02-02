@@ -34,6 +34,10 @@ Here are some ideas to get you started:
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,c,java,mysql,react,vscode,sqlite," />
 <br>
 
+## Internship
+- Preferred Networks
+- Recruit
+- SONY
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
