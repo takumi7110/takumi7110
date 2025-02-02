@@ -23,16 +23,21 @@ Here are some ideas to get you started:
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 🧑‍💻 I'm 🤓takumi naito.🤓
-- 🌱 I’m currently learning 🤓🤓🤓🤓datascience!🤓🤓🤓🤓
+- 🧑‍💻 I'm a student at Kyoto university.(Informatics)
+- 🌱 I’m currently learning datascience.
 
 
 <!-- 3. 好きな技術スタックに変更 -->
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
+### Programming
+I'm a beginner in programming.
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,r,c,java,mysql,react,sqlite," />
 <br>
+### Statistics/MachineLearning
+- Kaggle: Expert(🥉×2)
+- 統計検定一級(統計数理、統計応用の両分野で最優秀成績賞)
 
 ## Internship
 - 東京大学松尾研究室
