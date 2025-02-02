@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,c,java,mysql,react,vscode,sqlite," />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,r,c,java,mysql,react,vscode,sqlite," />
 <br>
 
 ## Internship
