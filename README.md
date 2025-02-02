@@ -5,11 +5,6 @@
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takumi7110&theme=vue-dark&layout=compact" />
 </div>
 
-<p align="center">
-  <img src="./image/IMG_0837.HEIC" alt="Image 1" width="300" />
-  <img src="./image/IMG_5541.HEIC" alt="Image 2" width="300" />
-</p>
-
 ## Hi there 👋
 
 <!--
@@ -51,6 +46,11 @@ I'm a beginner in programming.
 ### Statistics/MachineLearning
 - Kaggle: Expert(🥉×2)
 - 統計検定一級(統計数理、統計応用の両分野で最優秀成績賞)
+
+<p align="center">
+  <img src="./image/IMG_0837.HEIC" alt="Image 1" width="300" />
+  <img src="./image/IMG_5541.HEIC" alt="Image 2" width="300" />
+</p>
 
 ## Internship
 - 東京大学松尾研究室
