@@ -1,5 +1,5 @@
 <!-- ![title](./image/IMG_0837.HEIC) -->
-<img src="./image/IMG_0837.jpg" alt="title" width="300" />
+<img src="./image/IMG_0837.HEIC" alt="title" width="300" />
 ## Hi there 👋
 
 <!--
