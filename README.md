@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- 1. GitHub usernameを変更 -->
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=takumi7110" />
-</div>
+<!--div align="right" -->
+  <!-- img src="https://komarev.com/ghpvc/?username=takumi7110" / -->
+<!-- /div -- >
 
 
 <!-- 2. プロフィールや連絡先を変更 -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
+<!-- img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" --> 
+<!-- Hi there -->
 
 - 🧑‍💻 I'm a student at Kyoto university.(Informatics)
 - 🌱 I’m currently learning datascience.
