@@ -1,6 +1,6 @@
 <!-- ![title](./image/IMG_0837.HEIC) -->
 
-<img src="./image/IMG_8012.HEIC" alt="title" width="500" />
+<img src="./image/IMG_8012.HEIC" alt="title" width="500" height="250" />
 <p align="center">
   <img src="./image/IMG_0837.HEIC" alt="Image 1" width="300" />
   <img src="./image/IMG_5541.HEIC" alt="Image 2" width="300" />
