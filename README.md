@@ -1,6 +1,10 @@
 <!-- ![title](./image/IMG_0837.HEIC) -->
+## 🏃‍♀️ Activities
+<div align="left"> 
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=takumi7110&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takumi7110&theme=vue-dark&layout=compact" />
+</div>
 
-<img src="./image/IMG_8012.HEIC" alt="title" width="500" height="250" />
 <p align="center">
   <img src="./image/IMG_0837.HEIC" alt="Image 1" width="300" />
   <img src="./image/IMG_5541.HEIC" alt="Image 2" width="300" />
@@ -58,12 +62,8 @@ I'm a beginner in programming.
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
-## 🏃‍♀️ Activities
-<div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=takumi7110&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takumi7110&theme=vue-dark&layout=compact" />
-</div>
 
+<img src="./image/IMG_8012.HEIC" alt="title" width="500" height="250" />
 
 <!--
 This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
