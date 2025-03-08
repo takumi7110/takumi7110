@@ -45,7 +45,7 @@ I'm a beginner in programming.
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,r,c,java,mysql,react,sqlite," />
 <br>
 ### Statistics/MachineLearning
-- Kaggle: Expert(🥉×2)
+- Kaggle: Expert(🥈×1🥉×2)
 - 統計検定一級(統計数理、統計応用の両分野で最優秀成績賞)
 
 <p align="center">
