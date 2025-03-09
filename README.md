@@ -25,6 +25,17 @@ Here are some ideas to get you started:
 <!-- img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" --> 
 <!-- Hi there -->
 
+
+<!-- 参考 -->
+<!-- [Hi there](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- https://github.com/vn7n24fzkq/github-profile-summary-cards -->
+<!-- [https://github.com/vn7n24fzkq/github-profile-summary-cards](https://github.com/lowlighter/metrics/blob/master/source/plugins/topics/README.md) -->
+<!-- [https://github.com/vn7n24fzkq/github-profile-summary-cards](https://github.com/lowlighter/metrics/blob/master/source/plugins/topics/README.md) -->
+<!-- https://docs.github.com/ja/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/showing-an-overview-of-your-activity-on-your-profile -->
+<!-- https://paiza.hatenablog.com/entry/2022/07/06/160000 -->
+
+
+
 - 🧑‍💻 I'm a student at Kyoto university.(Informatics)
 - 🌱 I’m currently learning datascience.
 
