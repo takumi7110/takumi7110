@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 <!-- https://paiza.hatenablog.com/entry/2022/07/06/160000 -->
 
 
-
 - 🧑‍💻 I'm a student at Kyoto university.(Informatics)
 - 🌱 I’m currently learning datascience.
 
