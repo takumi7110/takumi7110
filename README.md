@@ -58,10 +58,10 @@ I'm a beginner in programming.
 - Kaggle: Expert(🥈×1🥉×2)
 - 統計検定一級(統計数理、統計応用の両分野で最優秀成績賞)
 
-<p align="center">
-  <img src="./image/IMG_0837.HEIC" alt="Image 1" width="350" />
-  <img src="./image/IMG_5541.HEIC" alt="Image 2" width="350" />
-</p>
+<!--<p align="center">-->
+<!--  <img src="./image/IMG_0837.HEIC" alt="Image 1" width="350" />-->
+<!--  <img src="./image/IMG_5541.HEIC" alt="Image 2" width="350" />-->
+<!--</p>-->
 
 ## Internship
 - 東京大学松尾研究室
@@ -74,7 +74,7 @@ I'm a beginner in programming.
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 
-<img src="./image/IMG_8012.HEIC" alt="title" width="1000" height="450" />
+<!--<img src="./image/IMG_8012.HEIC" alt="title" width="1000" height="450" />-->
 
 <!--
 This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
