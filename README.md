@@ -57,6 +57,7 @@ I'm a beginner in programming.
 ### Statistics/MachineLearning
 - Kaggle: Expert(🥈×1🥉×2)
 - 統計検定一級(統計数理、統計応用の両分野で最優秀成績賞)
+- データベーススペシャリスト
 
 <!--<p align="center">-->
 <!--  <img src="./image/IMG_0837.HEIC" alt="Image 1" width="350" />-->
